@@ -19,3 +19,7 @@ ol {
 p {
     text-align: center;
 }
+
+li:hover {
+    color: #333
+}
